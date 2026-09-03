@@ -1,0 +1,3 @@
+- Branching is used to to create new updates to code without breaking already-working versions
+- Merging takes all commits of an existing branch and brings them over to the main branch.
+- Saving code to Git follows three steps: adding, committing, and pushing.
